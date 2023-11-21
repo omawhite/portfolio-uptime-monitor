@@ -16,7 +16,8 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /portfolio-uptime-monitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  theme: night
+  name: upptime.louiswhite.me
   introTitle: 'Uptime monitoring for louiswhite.me'
   introMessage: This is a sample status page for my portfolio site which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -26,3 +27,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - omawhite
