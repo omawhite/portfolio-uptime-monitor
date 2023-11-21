@@ -19,7 +19,7 @@ status-website:
   theme: night
   name: upptime.louiswhite.me
   introTitle: 'Uptime monitoring for louiswhite.me'
-  introMessage: This is a sample status page for my portfolio site which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a simple status page for my portfolio site. Which uses [Upptime](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
