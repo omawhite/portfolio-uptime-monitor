@@ -4,19 +4,19 @@
     "url": "https://louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/louiswhite.me.ico",
     "slug": "louiswhite-me",
-    "status": "down",
-    "uptime": "97.23%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "97.23%",
-    "uptimeMonth": "97.23%",
-    "uptimeYear": "97.23%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "95.40%",
+    "uptimeDay": "95.40%",
+    "uptimeWeek": "95.40%",
+    "uptimeMonth": "95.40%",
+    "uptimeYear": "95.40%",
+    "time": 291,
+    "timeDay": 291,
+    "timeWeek": 291,
+    "timeMonth": 291,
+    "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-11-21": 18
+      "2023-11-21": 31
     }
   },
   {
