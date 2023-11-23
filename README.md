@@ -24,6 +24,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 [**Visit our status website →**](https://omawhite.github.io/Omars-portfolio-uptime-monitor)
 
+Original github pages url: https://omawhite.github.io/portfolio-uptime-monitor/
+
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
