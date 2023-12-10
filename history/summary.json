@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/louiswhite.me.ico",
     "slug": "louiswhite-me",
     "status": "up",
-    "uptime": "99.93%",
+    "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 299,
-    "timeDay": 251,
-    "timeWeek": 306,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
+    "time": 292,
+    "timeDay": 159,
+    "timeWeek": 286,
+    "timeMonth": 292,
+    "timeYear": 292,
     "dailyMinutesDown": {
       "2023-11-21": 18
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 19,
-    "timeDay": 48,
-    "timeWeek": 22,
-    "timeMonth": 19,
-    "timeYear": 19,
+    "time": 18,
+    "timeDay": 28,
+    "timeWeek": 20,
+    "timeMonth": 18,
+    "timeYear": 18,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 92,
-    "timeDay": 94,
-    "timeWeek": 73,
-    "timeMonth": 92,
-    "timeYear": 92,
+    "time": 89,
+    "timeDay": 58,
+    "timeWeek": 67,
+    "timeMonth": 89,
+    "timeYear": 89,
     "dailyMinutesDown": {}
   }
 ]
