@@ -6,17 +6,16 @@
     "slug": "louiswhite-me",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 310,
-    "timeDay": 354,
-    "timeWeek": 344,
-    "timeMonth": 304,
-    "timeYear": 310,
+    "time": 309,
+    "timeDay": 300,
+    "timeWeek": 335,
+    "timeMonth": 298,
+    "timeYear": 309,
     "dailyMinutesDown": {
-      "2024-01-17": 6,
       "2023-12-17": 30,
       "2023-11-21": 18
     }
@@ -34,7 +33,7 @@
     "uptimeYear": "100.00%",
     "time": 22,
     "timeDay": 42,
-    "timeWeek": 28,
+    "timeWeek": 33,
     "timeMonth": 24,
     "timeYear": 22,
     "dailyMinutesDown": {}
@@ -51,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 95,
-    "timeDay": 599,
-    "timeWeek": 147,
-    "timeMonth": 81,
+    "timeDay": 94,
+    "timeWeek": 157,
+    "timeMonth": 80,
     "timeYear": 95,
     "dailyMinutesDown": {}
   }
