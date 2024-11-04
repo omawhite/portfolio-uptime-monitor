@@ -4,7 +4,7 @@
     "url": "https://louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/louiswhite.me.ico",
     "slug": "louiswhite-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 504,
     "timeYear": 353,
     "dailyMinutesDown": {
+      "2024-11-04": 0,
       "2024-02-28": 23,
       "2023-12-17": 30,
       "2023-11-21": 18
