@@ -4,19 +4,19 @@
     "url": "https://louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/louiswhite.me.ico",
     "slug": "louiswhite-me",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 357,
-    "timeDay": 346,
-    "timeWeek": 320,
-    "timeMonth": 293,
+    "timeDay": 288,
+    "timeWeek": 309,
+    "timeMonth": 291,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 16
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://www.louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.louiswhite.me.ico",
     "slug": "www-louiswhite-me",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 24,
-    "timeDay": 13,
-    "timeWeek": 25,
+    "timeDay": 17,
+    "timeWeek": 24,
     "timeMonth": 21,
     "timeYear": 24,
     "dailyMinutesDown": {
-      "2025-07-19": 0
+      "2025-07-19": 16
     }
   },
   {
