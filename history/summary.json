@@ -16,6 +16,7 @@
     "timeMonth": 279,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-07-19": 16
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://www.louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.louiswhite.me.ico",
     "slug": "www-louiswhite-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 23,
     "timeYear": 24,
     "dailyMinutesDown": {
+      "2025-07-24": 0,
       "2025-07-19": 16
     }
   },
