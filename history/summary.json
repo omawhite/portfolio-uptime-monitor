@@ -6,17 +6,16 @@
     "slug": "louiswhite-me",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 362,
-    "timeDay": 302,
-    "timeWeek": 557,
-    "timeMonth": 453,
+    "timeDay": 368,
+    "timeWeek": 414,
+    "timeMonth": 459,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-08-30": 7,
       "2025-07-19": 16
     }
   },
@@ -27,9 +26,9 @@
     "slug": "www-louiswhite-me",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 25,
     "timeDay": 21,
@@ -37,7 +36,6 @@
     "timeMonth": 29,
     "timeYear": 25,
     "dailyMinutesDown": {
-      "2025-08-30": 7,
       "2025-07-19": 16
     }
   },
@@ -53,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 89,
-    "timeWeek": 156,
-    "timeMonth": 200,
-    "timeYear": 188,
+    "timeDay": 40,
+    "timeWeek": 143,
+    "timeMonth": 197,
+    "timeYear": 187,
     "dailyMinutesDown": {}
   }
 ]
