@@ -4,18 +4,19 @@
     "url": "https://louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/louiswhite.me.ico",
     "slug": "louiswhite-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.52%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.51%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 363,
+    "time": 364,
     "timeDay": 294,
     "timeWeek": 405,
     "timeMonth": 453,
     "timeYear": 367,
     "dailyMinutesDown": {
+      "2025-09-01": 0,
       "2025-08-31": 49,
       "2025-07-19": 16
     }
@@ -25,9 +26,9 @@
     "url": "https://www.louiswhite.me",
     "icon": "https://icons.duckduckgo.com/ip3/www.louiswhite.me.ico",
     "slug": "www-louiswhite-me",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.52%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
@@ -37,6 +38,7 @@
     "timeMonth": 28,
     "timeYear": 25,
     "dailyMinutesDown": {
+      "2025-09-01": 0,
       "2025-08-31": 48,
       "2025-07-19": 16
     }
@@ -48,17 +50,15 @@
     "slug": "netlify-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 88,
     "timeWeek": 117,
     "timeMonth": 190,
     "timeYear": 186,
-    "dailyMinutesDown": {
-      "2025-09-01": 7
-    }
+    "dailyMinutesDown": {}
   }
 ]
