@@ -6,9 +6,9 @@
     "slug": "louiswhite-me",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.48%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.36%",
+    "uptimeMonth": "99.85%",
     "uptimeYear": "99.98%",
     "time": 364,
     "timeDay": 328,
@@ -16,7 +16,7 @@
     "timeMonth": 444,
     "timeYear": 367,
     "dailyMinutesDown": {
-      "2025-09-01": 22,
+      "2025-09-01": 15,
       "2025-08-31": 49,
       "2025-07-19": 16
     }
@@ -28,17 +28,17 @@
     "slug": "www-louiswhite-me",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.31%",
-    "uptimeMonth": "99.84%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.37%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.99%",
     "time": 25,
     "timeDay": 27,
     "timeWeek": 30,
     "timeMonth": 28,
     "timeYear": 25,
     "dailyMinutesDown": {
-      "2025-09-01": 21,
+      "2025-09-01": 15,
       "2025-08-31": 48,
       "2025-07-19": 16
     }
