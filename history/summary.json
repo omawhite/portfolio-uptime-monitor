@@ -50,11 +50,11 @@
     "url": "https://omars-next-portfolio.netlify.app",
     "icon": "https://icons.duckduckgo.com/ip3/omars-next-portfolio.netlify.app.ico",
     "slug": "netlify-url",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 459,
@@ -62,7 +62,7 @@
     "timeMonth": 228,
     "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-10-20": 12
+      "2025-10-20": 0
     }
   }
 ]
