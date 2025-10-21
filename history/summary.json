@@ -10,9 +10,9 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 377,
-    "timeDay": 975,
-    "timeWeek": 649,
+    "time": 378,
+    "timeDay": 983,
+    "timeWeek": 643,
     "timeMonth": 482,
     "timeYear": 365,
     "dailyMinutesDown": {
@@ -34,8 +34,8 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 41,
-    "timeDay": 1676,
-    "timeWeek": 774,
+    "timeDay": 1681,
+    "timeWeek": 775,
     "timeMonth": 257,
     "timeYear": 45,
     "dailyMinutesDown": {
@@ -52,17 +52,17 @@
     "slug": "netlify-url",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
-    "time": 185,
-    "timeDay": 322,
-    "timeWeek": 245,
-    "timeMonth": 226,
-    "timeYear": 192,
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "100.00%",
+    "time": 186,
+    "timeDay": 388,
+    "timeWeek": 262,
+    "timeMonth": 230,
+    "timeYear": 193,
     "dailyMinutesDown": {
-      "2025-10-20": 31
+      "2025-10-20": 20
     }
   }
 ]
